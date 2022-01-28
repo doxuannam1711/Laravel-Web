@@ -217,7 +217,7 @@ body{
     border-bottom-color:black;
     border-radius: 50%;
     position: absolute;
-    top: 40px;
+    top: 45px;
     left:55px;
     transform: rotate(0deg);
 }
