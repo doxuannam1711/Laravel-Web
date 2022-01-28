@@ -19,6 +19,8 @@
         <main>
             @yield('content')
         </main>
-        
+        <div >
+            @yield('animation')
+        </div>
     </body>
 </html>

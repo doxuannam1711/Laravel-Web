@@ -9,7 +9,7 @@
         <p class="text-white text-lg font-light tracking-wider mb-6">
             It is my first time i use Laravel to code my first website
             <br>
-            So i so confuse :)
+            So i so confused :)
         </p>
         <a href="/" class="text-purple-500">Go Home</a>
     </div>
